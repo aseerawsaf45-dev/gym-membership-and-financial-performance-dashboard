@@ -1,0 +1,55 @@
+# =========================
+# System files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Power BI cache/temp files
+# =========================
+*.pbit
+*.pbix~
+*.tmp
+*.log
+
+# =========================
+# Python (if you use it later)
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env/
+
+# =========================
+# Jupyter Notebook checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# VS Code / IDE settings
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Large data files (optional)
+# Uncomment if needed
+# =========================
+# *.csv
+# *.xlsx
+
+# =========================
+# Secrets / credentials
+# =========================
+.env
+*.key
+*.json
+
+# =========================
+# OS generated files
+# =========================
+ehthumbs.db
+Desktop.ini
